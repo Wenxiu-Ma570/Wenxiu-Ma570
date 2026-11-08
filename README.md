@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Wenxiu-Ma570/Wenxiu-Ma570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wenxiu Ma
 
-Here are some ideas to get you started:
+**M.S. Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Department of Computer Science  
+Wuhan University
+
+## Research Interests
+
+- Computer Vision
+- Deep Learning
+
+## Contact
+
+Email: 2026202110013@whu.edu.cn
